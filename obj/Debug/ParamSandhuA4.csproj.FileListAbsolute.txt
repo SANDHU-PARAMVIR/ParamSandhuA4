@@ -1,0 +1,10 @@
+C:\Users\Manprit\Music\RestaurantBillCalculator-master\A1HarleenKaur\bin\Debug\ParamSandhuA4.exe.config
+C:\Users\Manprit\Music\RestaurantBillCalculator-master\A1HarleenKaur\bin\Debug\ParamSandhuA4.exe
+C:\Users\Manprit\Music\RestaurantBillCalculator-master\A1HarleenKaur\bin\Debug\ParamSandhuA4.pdb
+C:\Users\Manprit\Music\RestaurantBillCalculator-master\A1HarleenKaur\obj\Debug\ParamSandhuA4.csprojAssemblyReference.cache
+C:\Users\Manprit\Music\RestaurantBillCalculator-master\A1HarleenKaur\obj\Debug\ParamSandhuA4.RestaurantBillForm.resources
+C:\Users\Manprit\Music\RestaurantBillCalculator-master\A1HarleenKaur\obj\Debug\ParamSandhuA4.Properties.Resources.resources
+C:\Users\Manprit\Music\RestaurantBillCalculator-master\A1HarleenKaur\obj\Debug\ParamSandhuA4.csproj.GenerateResource.cache
+C:\Users\Manprit\Music\RestaurantBillCalculator-master\A1HarleenKaur\obj\Debug\ParamSandhuA4.csproj.CoreCompileInputs.cache
+C:\Users\Manprit\Music\RestaurantBillCalculator-master\A1HarleenKaur\obj\Debug\ParamSandhuA4.exe
+C:\Users\Manprit\Music\RestaurantBillCalculator-master\A1HarleenKaur\obj\Debug\ParamSandhuA4.pdb
